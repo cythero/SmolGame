@@ -1,0 +1,810 @@
+﻿Log file open, 02/25/22 12:38:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SmolGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240295
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ColorWheelPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PTMTool
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=cytherina -epicuserid=e879aac0184f4142ad52b4e024d34973 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Unreal/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:090][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:109][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.25-11.38.48:109][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.25-11.38.48:110][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.25-11.38.48:110][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.25-11.38.48:110][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.25-11.38.48:110][  0]LogHAL: Display: Platform has ~ 16 GB [17022177280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.25-11.38.48:111][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.25-11.38.48:111][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Scalability.ini]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.25-11.38.48:112][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Engine.ini]
+[2022.02.25-11.38.48:112][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Config/Windows/Editor.ini]
+[2022.02.25-11.38.48:112][  0]LogInit: Computer: DESKTOP-0FG1SOE
+[2022.02.25-11.38.48:112][  0]LogInit: User: cythe
+[2022.02.25-11.38.48:112][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.25-11.38.48:112][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.25-11.38.48:112][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.25-11.38.48:112][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.25-11.38.48:112][  0]LogMemory: Process Physical Memory: 145.51 MB used, 145.51 MB peak
+[2022.02.25-11.38.48:112][  0]LogMemory: Process Virtual Memory: 129.93 MB used, 129.93 MB peak
+[2022.02.25-11.38.48:112][  0]LogMemory: Physical Memory: 12595.40 MB used,  3638.21 MB free, 16233.61 MB total
+[2022.02.25-11.38.48:112][  0]LogMemory: Virtual Memory: 134189984.00 MB used,  27746.77 MB free, 134217728.00 MB total
+[2022.02.25-11.38.48:116][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.25-11.38.48:154][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.25-11.38.48:155][  0]LogInit: Using OS detected language (en-US).
+[2022.02.25-11.38.48:155][  0]LogInit: Using OS detected locale (en-DE).
+[2022.02.25-11.38.48:156][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.25-11.38.48:335][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-11.38.48:346][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.25-11.38.48:346][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.25-11.38.48:448][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.25-11.38.48:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.25-11.38.48:505][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.25-11.38.48:505][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.25-11.38.48:505][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.25-11.38.48:629][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.02.25-11.38.48:629][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.25-11.38.48:640][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.02.25-11.38.48:640][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     SubSysId    : 18711043
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     SharedSystemMemory : 8511088640 bytes
+[2022.02.25-11.38.48:642][  0]LogD3D11RHI:     AdapterLuid : 0 73255
+[2022.02.25-11.38.48:649][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.25-11.38.48:649][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.25-11.38.48:649][  0]LogWindows: EnumDisplayDevices:
+[2022.02.25-11.38.48:649][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.02.25-11.38.48:649][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.25-11.38.48:650][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.25-11.38.48:650][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2022.02.25-11.38.48:650][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.02.25-11.38.48:650][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.02.25-11.38.48:650][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.02.25-11.38.48:651][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2022.02.25-11.38.48:651][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     SubSysId    : 18711043
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     SharedSystemMemory : 8511088640 bytes
+[2022.02.25-11.38.48:651][  0]LogD3D11RHI:     AdapterLuid : 0 73255
+[2022.02.25-11.38.48:734][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.25-11.38.48:734][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.25-11.38.48:734][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.25-11.38.48:752][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.25-11.38.48:792][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.25-11.38.49:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.25-11.38.49:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.25-11.38.49:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.25-11.38.49:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.25-11.38.49:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.25-11.38.49:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.25-11.38.49:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.25-11.38.49:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.25-11.38.49:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.25-11.38.49:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.25-11.38.49:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.25-11.38.49:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.25-11.38.49:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.25-11.38.49:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.25-11.38.49:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.25-11.38.49:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.25-11.38.49:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.25-11.38.49:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.25-11.38.49:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.25-11.38.49:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.25-11.38.49:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.25-11.38.49:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.25-11.38.49:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.25-11.38.49:211][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.25-11.38.49:216][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.25-11.38.49:236][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.25-11.38.49:258][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.25-11.38.49:258][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Users/cythe/Documents/GitHub/SmolGame/SmolGame/Intermediate/Shaders/WorkingDirectory/21240/).
+[2022.02.25-11.38.49:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cythe/AppData/Local/Temp/UnrealShaderWorkingDir/B995BB344E00066C321A8BBEF5FE17E6/'.
+[2022.02.25-11.38.49:259][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.25-11.38.49:259][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.25-11.38.49:259][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.25-11.38.49:950][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/cythe/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cythe/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/cythe/Documents/GitHub/SmolGame/SmolGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/cythe/Documents/GitHub/SmolGame/SmolGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.25-11.38.50:012][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.25-11.38.50:029][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.25-11.38.50:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.25-11.38.50:029][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.25-11.38.50:034][  0]LogDerivedDataCache: Speed tests for C:/Users/cythe/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.25-11.38.50:034][  0]LogDerivedDataCache: Display: Performance to C:/Users/cythe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1529.59MBs, RandomWriteSpeed=207.73MBs. Assigned SpeedClass 'Local'
+[2022.02.25-11.38.50:035][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cythe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.25-11.38.50:035][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.25-11.38.50:035][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.25-11.38.50:087][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.25-11.38.50:088][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.25-11.38.50:111][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.02.25-11.38.50:315][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.25-11.38.50:315][  0]LogInit: Active device profile: [00000215C4780900][00000215B7E34840 49] Windows
+[2022.02.25-11.38.50:315][  0]LogInit: Profiles: [00000215C4780900][00000215B7E34840 49] Windows, [00000215C473B800][00000215B7E38980 49] WindowsNoEditor, [00000215C4783500][00000215BB1F8AC0 49] WindowsServer, [00000215C4738E00][00000215BB204C40 49] WindowsClient, [00000215C4783800][00000215BB208DC0 49] IOS, [00000215C473A800][00000215BB20CF40 49] iPadAir, [00000215C4782000][00000215BB2110C0 49] iPadAir2, [00000215C45E4A00][00000215C4D01380 49] IPadPro, [00000215C45E4B00][00000215C4CFD3C0 49] iPadAir3, [00000215C4739800][00000215C4D05540 49] iPadAir4, [00000215C45E7400][00000215C4D096C0 49] iPadMini2, [00000215C473AA00][00000215C4D0D840 49] iPadMini3, [00000215C45E5700][00000215C4D119C0 49] iPadMini4, [00000215C4781000][00000215C4D15B40 49] iPadMini5, [00000215C4620300][00000215C4D1C280 49] iPhone6, [00000215C4620400][00000215C4D182C0 49] iPodTouch6, [00000215C45E7600][00000215C4D28580 49] iPhone7, [00000215C45E5800][00000215C4D245C0 49] iPodTouch7, [00000215C4623F00][00000215C4D2C740 49] iPhone5S, [00000215C473A300][00000215C4D348C0 49] iPhone6Plus, [00000215C45E4200][00000215BB200A00 49] iPhone6S, [00000215C473A200][00000215C4D50B40 49] iPhone6SPlus, [00000215C45E7C00][00000215C4D54C80 49] iPhone7Plus, [00000215C4738100][00000215C4D60DC0 49] iPhoneSE, [00000215C45E7500][00000215C4D70F40 49] iPhone8, [00000215C4739E00][00000215C4D790C0 49] iPhone8Plus, [00000215C45E5000][00000215C4D95240 49] iPhoneX, [00000215C4738A00][00000215C4D9D3C0 49] iPhoneXS, [00000215C45E5200][00000215C4DA9540 49] iPhoneXSMax, [00000215C4739500][00000215C4DAD6C0 49] iPhoneXR, [00000215C45E7700][00000215C4DB5840 49] iPhone11, [00000215C4738D00][00000215C4DBD9C0 49] iPhone11Pro, [00000215C45E7800][00000215C4DC1B40 49] iPhone11ProMax, [00000215C4738F00][00000215C4DE4140 49] iPhoneSE2, [00000215C45E6E00][00000215C4E0C2C0 49] iPhone12Mini, [00000215C473B100][00000215C4E20440 49] iPhone12, [00000215C45E6B00][00000215C4E245C0 49] iPhone12Pro, [00000215C4738800][00000215C4E28740 49] iPhone12ProMax, [00000215C45E6300][00000215C4E2C8C0 49] iPadPro105, [00000215C473AF00][00000215C4E30A40 49] iPadPro129, [00000215C45E6000][00000215C4D68B80 49] iPadPro97, [00000215C4739300][00000215C4E34CC0 49] iPadPro2_129, [00000215C45E5A00][00000215C4E38E00 49] iPad5, [00000215C4739A00][00000215C4E40F40 49] iPad6, [00000215C45E6800][00000215C4E490C0 49] iPad7, [00000215C4738C00][00000215C4E4D240 49] iPad8, [00000215C45E7200][00000215C4E553C0 49] iPadPro11, [00000215C4739600][00000215C4E5D540 49] iPadPro2_11, [00000215C45E5C00][00000215C4E8B6C0 49] iPadPro3_129, [00000215C473B900][00000215C4EA3840 49] iPadPro4_129, [00000215C45E5500][00000215C4EBD9C0 49] AppleTV, [00000215C4738300][00000215C4EC1B40 49] AppleTV4K, [00000215C45E4100][00000215C4EC4140 49] TVOS, [00000215C473A400][00000215C4EC82C0 49] Mac, [00000215C45E6100][00000215C4ECC440 49] MacClient, [00000215C473B400][00000215C4F245C0 49] MacNoEditor, [00000215C45E5F00][00000215C4F28740 49] MacServer, [00000215C4738600][00000215C4F948C0 49] Linux, [00000215C45E6200][00000215B4790A40 49] LinuxAArch64, [00000215C473B600][00000215B4794BC0 49] LinuxNoEditor, [00000215C45E5D00][00000215B47A4D40 49] LinuxAArch64NoEditor, [00000215C4739400][00000215C4E44E80 49] LinuxClient, [00000215C45E7100][00000215B47A8FC0 49] LinuxAArch64Client, [00000215C4739900][00000215B47AD100 49] LinuxServer, [00000215C45E7000][00000215B47B5280 49] LinuxAArch64Server, [00000215C473A600][00000215B47B9400 49] Android, [00000215C45E4700][00000215C215B580 49] Android_Low, [00000215C4739B00][00000215C215F700 49] Android_Mid, [00000215C4783A00][00000215C2163880 49] Android_High, [00000215C4621C00][00000215C2167A00 49] Android_Default, [00000215C4782100][00000215C216BB80 49] Android_Adreno4xx, [00000215C4622700][00000215C216E180 49] Android_Adreno5xx_Low, [00000215C4780B00][00000215C2172300 49] Android_Adreno5xx, [00000215C4622D00][00000215C2176480 49] Android_Adreno6xx, [00000215C4781200][00000215C217A600 49] Android_Adreno6xx_Vulkan, [00000215C4622800][00000215C217E780 49] Android_Mali_T6xx, [00000215C4783200][00000215C2182900 49] Android_Mali_T7xx, [00000215C4622E00][00000215C2186A80 49] Android_Mali_T8xx, [00000215C4782500][00000215C218AC00 49] Android_Mali_G71, [00000215C4623E00][00000215C218ED80 49] Android_Mali_G72, [00000215C4782A00][00000215C2192F00 49] Android_Mali_G72_Vulkan, [00000215C4621B00][00000215B47B1040 49] Android_Mali_G76, [00000215C4781B00][00000215C2197180 49] Android_Mali_G76_Vulkan, [00000215C4623D00][00000215C219B2C0 49] Android_Mali_G77, [00000215C4782D00][00000215C21A3440 49] Android_Mali_G77_Vulkan, [00000215C4623900][00000215C21A75C0 49] Android_Mali_G78, [00000215C4780D00][00000215C21AB740 49] Android_Mali_G78_Vulkan, [00000215C4620500][00000215C21AF8C0 49] Android_Mali_G710, [00000215C4782B00][00000215C21B3A40 49] Android_Mali_G710_Vulkan, [00000215C4623500][00000215C21B7BC0 49] Android_Vulkan_SM5, [00000215C4783400][00000215C21BA1C0 49] Android_PowerVR_G6xxx, [00000215C4622400][00000215C21BE340 49] Android_PowerVR_GT7xxx, [00000215C4783C00][00000215C21C24C0 49] Android_PowerVR_GE8xxx, [00000215C4622200][00000215C21C6640 49] Android_PowerVR_GM9xxx, [00000215C4783000][00000215C21CA7C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000215C4621500][00000215C21CE940 49] Android_TegraK1, [00000215C4781100][00000215C21D2AC0 49] Android_Unknown_Vulkan, [00000215C473BD00][00000215C21D6C40 49] Lumin, [00000215C4782900][00000215C21DADC0 49] Lumin_Desktop, [00000215C473BE00][00000215C21DEF40 49] HoloLens, 
+[2022.02.25-11.38.50:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.25-11.38.50:427][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.25-11.38.50:427][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.25-11.38.50:427][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.25-11.38.50:427][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.25-11.38.50:441][  0]LogNetVersion: SmolGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1849279002)
+[2022.02.25-11.38.50:777][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.25-11.38.50:830][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.25-11.38.50:837][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.25-11.38.50:837][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.25-11.38.50:837][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.25-11.38.51:814][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0C4D9D554CC23D7990DB96AE96FC8A11 | Instance: D3858F5F4EA442B53362258742A00988 (DESKTOP-0FG1SOE-21240).
+[2022.02.25-11.38.51:853][  0]LogPython: Using Python 3.7.7
+[2022.02.25-11.38.52:563][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.25-11.38.52:567][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.25-11.38.52:861][  0]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2022.02.25-11.38.52:861][  0]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2022.02.25-11.38.52:861][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2022.02.25-11.38.53:467][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.25-11.38.53:479][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.25-11.38.53:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.25-11.38.53:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.25-11.38.54:852][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2022.02.25-11.38.54:853][  0]LogHoudiniEngine: Failed locating or loading libHAPIL.dll
+[2022.02.25-11.38.54:854][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.02.25-11.38.54:857][  0]LogMaterial: Display: Missing cached shadermap for houdini_default_material in PCD3D_SM5, Default, SM5 (DDC key hash: A7D9374E55B6DB4EC0CD210C3A5D4A71E1191467), compiling. 
+[2022.02.25-11.38.55:192][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.25-11.38.55:213][  0]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.38.55:213][  0]LogStaticMesh: Building static mesh houdini_logo...
+[2022.02.25-11.38.55:591][  0]LogStaticMesh: Built static mesh [0.38s] /HoudiniEngine/houdini_logo.houdini_logo
+[2022.02.25-11.38.55:973][  0]LogMaterial: Display: Missing cached shadermap for houdini_templated_material in PCD3D_SM5, Default, SM5 (DDC key hash: 69CB45D0B29E6514DB2EB3C511EDBBF7249921C6), compiling. 
+[2022.02.25-11.38.56:042][  0]LogShaderCompilers: Display: Submitted 68 shader compile jobs with 'Low' priority
+[2022.02.25-11.38.56:062][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 68
+[2022.02.25-11.38.56:062][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.38.56:062][  0]LogTexture: Display: Building textures: big_question_mark (BGRA8, 512X513)
+[2022.02.25-11.38.56:062][  0]LogMaterial: Display: Missing cached shadermap for default_reference_static_mesh_material in PCD3D_SM5, Default, SM5 (DDC key hash: 3B076AEA70C1B229E367D378001604652DF29062), compiling. 
+[2022.02.25-11.38.56:080][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.02.25-11.38.56:081][  0]LogStaticMesh: Building static mesh default_reference_static_mesh...
+[2022.02.25-11.38.56:083][  0]LogStaticMesh: Built static mesh [0.00s] /HoudiniEngine/default_reference_static_mesh.default_reference_static_mesh
+[2022.02.25-11.38.56:174][  0]SourceControl: Source control is disabled
+[2022.02.25-11.38.56:174][  0]SourceControl: Source control is disabled
+[2022.02.25-11.38.56:176][  0]SourceControl: Source control is disabled
+[2022.02.25-11.38.56:178][  0]SourceControl: Source control is disabled
+[2022.02.25-11.38.56:183][  0]SourceControl: Source control is disabled
+[2022.02.25-11.38.56:188][  0]LogUProjectInfo: Found projects:
+[2022.02.25-11.38.56:201][  0]LogCollectionManager: Loaded 0 collections in 0.000727 seconds
+[2022.02.25-11.38.56:221][  0]LogFileCache: Scanning file cache for directory 'D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Saved/Collections/' took 0.00s
+[2022.02.25-11.38.56:221][  0]LogFileCache: Scanning file cache for directory 'D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Content/Developers/cythe/Collections/' took 0.00s
+[2022.02.25-11.38.56:221][  0]LogFileCache: Scanning file cache for directory 'D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Content/Collections/' took 0.00s
+[2022.02.25-11.38.56:221][  0]LogOcInput: OculusInput pre-init called
+[2022.02.25-11.38.56:454][  0]LogClass: Warning: BoolProperty FHoudiniGeoPartObject::bHasEditLayers is not initialized properly even though its struct probably has a custom default constructor. Module:HoudiniEngineRuntime File:Private/HoudiniGeoPartObject.h
+[2022.02.25-11.38.56:456][  0]LogClass: Display: BoolProperty FHoudiniInstancedOutputPartData::bMaterialOverrideNeedsCreateInstance is not initialized properly. Module:HoudiniEngine File:Private/HoudiniInstanceTranslator.h
+[2022.02.25-11.38.56:456][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.02.25-11.38.56:457][  0]LogAutomationTest: Warning: BoolProperty FHoudiniGeoPartObject::bHasEditLayers is not initialized properly even though its struct probably has a custom default constructor. Module:HoudiniEngineRuntime File:Private/HoudiniGeoPartObject.h
+[2022.02.25-11.38.56:457][  0]LogEngine: Initializing Engine...
+[2022.02.25-11.38.56:834][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.25-11.38.56:835][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.25-11.38.56:836][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.25-11.38.56:837][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.25-11.38.56:966][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.25-11.38.56:972][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.25-11.38.56:976][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.25-11.38.56:979][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.25-11.38.56:979][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.25-11.38.56:980][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.25-11.38.56:980][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.25-11.38.56:999][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.25-11.38.56:999][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.25-11.38.57:038][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.25-11.38.57:042][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.25-11.38.57:044][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.25-11.38.57:044][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.25-11.38.57:045][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.25-11.38.57:045][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.25-11.38.57:045][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.25-11.38.57:046][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.25-11.38.57:046][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.25-11.38.57:046][  0]LogInit: FAudioDevice initialized.
+[2022.02.25-11.38.57:047][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.25-11.38.57:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.25-11.38.57:100][  0]LogDerivedDataCache: Saved boot cache 0.05s 95MB C:/Users/cythe/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.25-11.38.57:100][  0]LogInit: Texture streaming: Enabled
+[2022.02.25-11.38.57:141][  0]LogInit: Transaction tracking system initialized
+[2022.02.25-11.38.57:158][  0]BlueprintLog: New page: Editor Load
+[2022.02.25-11.38.57:202][  0]LocalizationService: Localization service is disabled
+[2022.02.25-11.38.57:218][  0]TimingProfiler: Initialize
+[2022.02.25-11.38.57:218][  0]TimingProfiler: OnSessionChanged
+[2022.02.25-11.38.57:218][  0]LoadingProfiler: Initialize
+[2022.02.25-11.38.57:218][  0]LoadingProfiler: OnSessionChanged
+[2022.02.25-11.38.57:218][  0]NetworkingProfiler: Initialize
+[2022.02.25-11.38.57:219][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.25-11.38.57:219][  0]MemoryProfiler: Initialize
+[2022.02.25-11.38.57:219][  0]MemoryProfiler: OnSessionChanged
+[2022.02.25-11.38.57:446][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.25-11.38.57:446][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.25-11.38.58:553][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2022.02.25-11.38.58:950][  0]LogFileCache: Scanning file cache for directory 'D:/Users/cythe/Documents/GitHub/SmolGame/SmolGame/Content/' took 1.39s
+[2022.02.25-11.38.58:950][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2022.02.25-11.38.59:055][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2022.02.25-11.38.59:474][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.25-11.38.59:476][  0]SourceControl: Source control is disabled
+[2022.02.25-11.39.01:522][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.25-11.39.03:201][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 76
+[2022.02.25-11.39.03:201][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.03:508][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2022.02.25-11.39.03:508][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.03:629][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2022.02.25-11.39.03:629][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.03:850][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 52
+[2022.02.25-11.39.03:850][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.04:071][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2022.02.25-11.39.04:071][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2022.02.25-11.39.04:071][  0]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.04:345][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2022.02.25-11.39.04:345][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.04:584][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2022.02.25-11.39.04:584][  0]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.05:815][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2022.02.25-11.39.05:815][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:279][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 23
+[2022.02.25-11.39.06:279][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:365][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.02.25-11.39.06:365][  0]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:672][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.25-11.39.06:672][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:757][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.02.25-11.39.06:757][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:810][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.02.25-11.39.06:810][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.06:963][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.02.25-11.39.06:963][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:049][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.02.25-11.39.07:049][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:083][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.02.25-11.39.07:083][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:429][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.02.25-11.39.07:429][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:599][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.25-11.39.07:599][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:650][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.02.25-11.39.07:650][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:736][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.25-11.39.07:736][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.25-11.39.07:736][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-11.39.07:787][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.25-11.39.07:787][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.25-13.01.34:227][  0]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1a6841cb-aa83-4487-b90e-49fcd699750c}.
+[2022.02.26-10.59.21:639][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.02.26-10.59.24:002][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.02.26-10.59.24:041][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2022.02.26-10.59.24:396][  0]LogUnrealEdMisc: Loading editor; pre map load, took 84042.122
+[2022.02.26-10.59.24:429][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.26-10.59.25:253][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.821 s
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: 
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: Ensure condition failed: SecondsSpentLoading < 36000 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Analytics/StudioAnalytics.cpp] [Line: 151]
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: The loading event shouldn't be over 10 hours, perhaps an uninitialized bit of memory?
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: Stack: 
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc8dbe7a89 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc8c23216d UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc8a6737e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc8a62ded2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ff642420e3b UE4Editor.exe!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6424210ba UE4Editor.exe!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6424240dd UE4Editor.exe!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ff642435984 UE4Editor.exe!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ff64243853a UE4Editor.exe!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3e627034 KERNEL32.DLL!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd3eba2651 ntdll.dll!UnknownFunction []
+[2022.02.26-10.59.25:253][  0]LogOutputDevice: Error: 
+[2022.02.26-10.59.25:266][  0]LogStats:                SubmitErrorReport -  0.000 s
