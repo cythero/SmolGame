@@ -1,0 +1,11 @@
+"Name","FirstFragment","PlayerSoundCue","PlayerAnimMontage"
+"TestDialogue","DF_Greeting;DF_DefaultRoot","SoundCue'/Game/QuestSystem/ExampleFiles/Audio/SC_TestDialogue_Player.SC_TestDialogue_Player'",
+"GuardDialogue","DF_Greeting",,
+"CollectorDialogue","DF_Greeting;DF_DefaultGreeting",,
+"TeleporterDialogue","DF_Root",,
+"InstructorDialogue","DF_Greeting;DF_TargetsStatus;GoAway",,
+"RaceDialogue","NoPath;DF_Greeting;DF_Finish",,
+"AnimDialogue","DF_AnimWelcome",,
+"TestBark","DF_ComeHere",,
+"TestAnimBark","DF_1",,
+"NPCTalkTest","DF_1",,

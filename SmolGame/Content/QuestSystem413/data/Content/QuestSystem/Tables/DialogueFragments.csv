@@ -1,0 +1,84 @@
+"Name","Speaker","Text","ShortText","NextFragments","Flags","Requirements","SoundFragmentID","AnimName","InstructionsWhenShown"
+"TestDialogue$DF_Greeting","Trainer","Good day to you lad. You look like another adventurer who has come to try his chance in these lands.",,"DF_PlGreeting;DF_PlQuestion5","UsedOnce;DisableClose",,4,,
+"TestDialogue$DF_PlGreeting","Player","This place looks like an example scene. Maybe I can learn about some systems here?","Maybe I can learn about some systems here?","DF_TrAnswer2","DisableClose",,1,,
+"TestDialogue$DF_TrAnswer2","Trainer","Indeed you can. I am a veteran soldier... fought a good deal in the wars in my time. But these days, I train young novices in this arena. If you have questions about theory of dialog or quest systems, feel free to ask.",,"DF_PlQuestion1;DF_PlQuestion2",,,2,,
+"TestDialogue$DF_PlQuestion1","Player","I have a few questions.",,"DF_BranchRootText",,,3,,
+"TestDialogue$DF_BranchRoot",,,,"DF_PlQuestion3;DF_PlQuestion4;DF_NoQuestions","QuestionHub",,,,
+"TestDialogue$DF_PlQuestion3","Player","Tell me about quest system",,"DF_QuestDescription",,,5,,
+"TestDialogue$DF_PlQuestion4","Player","Tell me about dialogue system",,"DF_ExitMessage",,,6,,
+"TestDialogue$DF_ExitMessage","Trainer","If you have more questions, I will be waiting here.",,"DF_AutoClose",,,7,,
+"TestDialogue$DF_PlQuestion2","Player","That's all, good bye.",,"DF_ExitMessage",,,8,,
+"TestDialogue$DF_PlQuestion5","Player","I think I'm ready to complete first quest.",,"DF_StartTutQuest",,"DF_PlQuestion3;QuestState TutorialQuest Pending",9,,
+"TestDialogue$DF_StartTutQuest","Trainer","Yes, now you're ready. This is a short quest which can be completed different ways. Just go.",,"DF_AutoClose",,,10,,"StartQuest TutorialQuest"
+"TestDialogue$DF_DefaultRoot","Trainer","Welcome again. How can I help you?",,"DF_PlQuestion1;DF_TellMoreQuest;DF_PlQuestion5;DF_PlQuestion2","QuestionHub",,11,,
+"TestDialogue$DF_QuestDescription","Trainer","With current quest system you can achieve very nonlinear quest logic. I have example quest for you if you are interested. It will give you an idea of what can be achieved with this system.",,"DF_BranchRoot",,,12,,
+"TestDialogue$DF_NoQuestions","Player","I don't have questions.",,"DF_NoQuestionsAnswer",,,13,,
+"TestDialogue$DF_BranchRootText","Trainer","Well, ask anything you like.",,"DF_BranchRoot",,,14,,
+"TestDialogue$DF_NoQuestionsAnswer","Trainer","Can I help you with anything else?",,"DF_DefaultRoot",,,15,,
+"TestDialogue$DF_AutoClose",,,,,,,16,,"CloseDialogue"
+"TestDialogue$DF_DialogueDescription","Trainer","This dialogue system provides you a framework to build your own dialogue. Even very complex. This dialogue is also an axample of what you can achieve. Any questions?",,"DF_BranchRoot",,,17,,
+"TestDialogue$DF_TellMoreQuest","Player","Can you tell me more about tutorial quest?",,"DF_TellMoreQuestAnswer",,"QuestState TutorialQuest Active",,,
+"TestDialogue$DF_TellMoreQuestAnswer","Trainer","Ask anything you like",,"DF_TellMoreQuestHub",,,,,
+"TestDialogue$DF_TellMoreQuestHub",,,,"DF_TellMoreQuestHowToComplete;DF_TellMoreNodeTypes;DF_TellMoreReqOpt;DF_TellMoreQuestReward;DF_NoQuestions","QuestionHub",,,,
+"TestDialogue$DF_TellMoreQuestHowToComplete","Player","What should I do to complete the quest?",,"DF_TellMoreQuestHowToCompleteAns",,,,,
+"TestDialogue$DF_TellMoreQuestReward","Player","Is there any reward for this quest?",,"DF_TellMoreQuestRewardAns",,,,,
+"TestDialogue$DF_TellMoreQuestHowToCompleteAns","Trainer","To complete the quest you must complete all required nodes of the first level. This means that all the nodes which are not optional and don't have any parent nodes should be completed.",,"DF_TellMoreQuestHub",,,,,
+"TestDialogue$DF_TellMoreNodeTypesAns","Trainer","Nodes can be Simple,Branching or Composite. Simple node doesn't have any child nodes. Branching node can have any amount of child nodes and to complete it you should complete any of its children. So it's like an ""OR"" operator. Composite node also can have any amount of child nodes. But to complete it you have to complete ALL of its children. If some child nodes are optional than their completion is not required. So it's like an ""AND"" operator.",,"DF_TellMoreQuestHub",,,,,
+"TestDialogue$DF_TellMoreReqOptAns","Trainer","Node can be required or optional. If node is optional completion of it is not required to complete its parent. So you can complete quest or quest node (which has optional child node) without completion of optional nodes. Tutorial quest which I gave to you has one optional node. To complete it, just talk to the guard. You can find him at the end of the ramp. But actually this node will be active only if you help my friend, Collector, with his problem. You can find him not very far away.",,"DF_TellMoreQuestHub",,,,,
+"TestDialogue$DF_TellMoreQuestRewardAns","Trainer","Yes, this quest has some reward for both completion of nodes and completion of the whole quest.",,"DF_TellMoreQuestHub",,,,,
+"TestDialogue$DF_TellMoreNodeTypes","Player","Nodes can have child nodes? What are you talking about?","What about child nodes?","DF_TellMoreNodeTypesAns",,"DF_TellMoreQuestHowToComplete",,,
+"TestDialogue$DF_TellMoreReqOpt","Player","What difference between Required and Optional node?",,"DF_TellMoreReqOptAns",,"DF_TellMoreQuestHowToComplete",,,
+"GuardDialogue$DF_Greeting","Guard","How can I help you?",,"DF_CompleteOptional;DF_Leave",,,,,
+"GuardDialogue$DF_CompleteOptional","Player","I want to complete that optional task. Trainer told me.",,"DF_CompleteOptionalGood;DF_CompleteOptionalBad",,"TestDialogue$DF_TellMoreReqOptAns;QuestState TutorialQuest Active;NOT QuestNodeState TutorialQuest$Part3 Completed",,,
+"GuardDialogue$DF_CompleteOptionalGood","Guard","Hmmm, okay. I'll tell him that you was here. Here is your reward.",,"DF_Greeting",,"QuestNodeState SecondQuest$Ending Completed;QuestNodeState TutorialQuest$Part3 Active",,,"CompleteQuestNode TutorialQuest$Part3"
+"GuardDialogue$DF_CompleteOptionalBad","Guard","I think trainer also told you that his friend needs help. And I don't think you helped him. Go away!",,"DF_Leave",,"NOT QuestNodeState SecondQuest$Ending Completed OR NOT QuestNodeState TutorialQuest$Part3 Active",,,
+"GuardDialogue$DF_Leave","Player","I'm leaving already.","Good bye.","DF_AutoClose",,,,,
+"GuardDialogue$DF_AutoClose",,,,,,,,,"CloseDialogue"
+"CollectorDialogue$DF_AutoClose",,,,,,,,,"CloseDialogue"
+"CollectorDialogue$DF_Greeting","Collector","Hello, I already received a message from trainer. So you're the one who will help me?",,"DF_PlResponse","UsedOnce;DisableClose","TestDialogue$DF_TellMoreReqOptAns",,,
+"CollectorDialogue$DF_DefaultGreeting","Collector","Hello there, how can I help you?",,"DF_GiveItems;DF_WalkAway",,,,,
+"CollectorDialogue$DF_PlResponse","Player","Yes, what should I do?",,"DF_GiveQuest","UsedOnce;DisableClose",,,,
+"CollectorDialogue$DF_GiveQuest","Collector","Look, for my investigation I need some strange items. I know, that if Chosen will walk to a special place, than those items will appear. So I want you to walk there and bring me back 5 items. No more, no less. This place you can find in corner of this arena.",,"DF_TakeQuest","UsedOnce;DisableClose",,,,"StartQuest SecondQuest"
+"CollectorDialogue$DF_TakeQuest","Player","I'll see what I can do.",,"DF_AutoClose","UsedOnce;DisableClose",,,,
+"CollectorDialogue$DF_WalkAway","Player","Nevermind, I was just passing by.",,"DF_AutoClose",,,,,
+"CollectorDialogue$DF_GiveItems","Player","Here are your special items. Although they look like simple cubes.","Here are your special items.","DF_CompleteQuest","UsedOnce;DisableClose","InventoryItem SimpleCube 5",,,
+"CollectorDialogue$DF_CompleteQuest","Collector","Oh, they are not just simple cubes. Well, you don't have skills of collector so you can't see why these cub... I meant items are so powerful. Anyway, thanks for your work, here is your reward.",,"DF_AutoClose",,,,,"CompleteQuestNode SecondQuest$Ending"
+"TeleporterDialogue$DF_Root","Gate keeper","Hello. I can teleport you to another level where you can shoot some cubes. But be careful, you will not be able to return to this level. Are you interested? But I will do it only if you have 10000 of money. By the way, I will take them from you. If you don't know, currently you have [[$Money]].",,"DF_Teleport;DF_No",,,,,
+"TeleporterDialogue$DF_Teleport","Player","Yes, I want to be there.",,,,"$Money>= 10000",,,"$Money-=10000;FailQuest TutorialQuest;FailQuest SecondQuest;OpenLevel FirstPersonExampleMap"
+"TeleporterDialogue$DF_No","Player","No, I want to stay here.",,"DF_AutoClose",,,,,"CloseDialogue"
+"TeleporterDialogue$DF_AutoClose",,,,,,,,,
+"InstructorDialogue$DF_Greeting","Instructor","If you're here it means you want to shoot. Well, I have a task for you. Go to the shooting range and destroy all targets. Do you have any questions?",,"DF_WhatDestroy;DF_NoQuestions","UsedOnce",,,,"StartQuest Quest1"
+"InstructorDialogue$DF_WhatDestroy","Player","What are my targets?",,"DF_WhatDestroyAns",,,,,
+"InstructorDialogue$DF_NoQuestions","Player","No, I don't have questions",,"DF_AutoClose",,,,,
+"InstructorDialogue$DF_TargetsStatus","Instructor","Have you destroyed all targets?",,"DF_TargetsDestroyed;DF_TargetsNo",,"NOT QuestNodeState Quest1$TalkToInstr Completed",,,
+"InstructorDialogue$DF_TargetsDestroyed","Player","All targets are destroyed.",,"DF_ShootComplete","UsedOnce","QuestNodeState Quest1$DestroyCubes Completed",,,
+"InstructorDialogue$DF_TargetsNo","Player","Sir! No, Sir!",,"DF_AutoClose",,,,,
+"InstructorDialogue$DF_WhatDestroyAns","Instructor","You're here to talk or you're here to become a soldier! Go to the shooting range and shoot them all!",,"DF_AutoClose",,,,,
+"InstructorDialogue$GoAway","Instructor","What are you doing here? Go away!",,"DF_AutoClose",,,,,
+"InstructorDialogue$DF_ShootComplete","Instructor","Okay, that was good. Now you have to go to another arena where another quest is waiting for you. Just walk up the stairs behind you.",,"DF_AutoClose",,,,,"CompleteQuestNode Quest1$TalkToInstr;FailQuestNode Quest1$GiantCube"
+"InstructorDialogue$DF_AutoClose",,,,,,,,,"CloseDialogue"
+"RaceDialogue$DF_Greeting","RaceSpeaker","Welcome to the arena! Now you'll have to win a race.",,"DF_LeftRace;DF_RightRace","UsedOnce;DisableClose","QuestNodeState Quest1$LeftPath Completed OR QuestNodeState Quest1$RightPath Completed",,,"StartQuest Quest2"
+"RaceDialogue$DF_LeftRace","RaceSpeaker","It looks like you've chosen left path. Why? Well, it doesn't matter now. Prepare to ride on the left track.",,"DF_AutoClose",,"QuestNodeState Quest1$LeftPath Completed",,,
+"RaceDialogue$DF_RightRace","RaceSpeaker","It looks like you've chosen right path. Why? Well, it doesn't matter now. Prepare to ride on the right track.",,"DF_AutoClose",,"QuestNodeState Quest1$RightPath Completed",,,
+"RaceDialogue$NoPath","RaceSpeaker","Hmmm, it looks like you've started this level directly. Quest won't work this way. Do you want to go to the FirstPersonMap to complete quest the way it was designed?",,"BringMeThere;Stay","UsedOnce","NOT QuestNodeState Quest1$LeftPath Completed;NOT QuestNodeState Quest1$RightPath Completed",,,
+"RaceDialogue$BringMeThere","Player","Yes, send me to another map.",,,,,,,"OpenLevel FirstPersonExampleMap"
+"RaceDialogue$Stay","Player","No, I'll stay here.",,"DF_AutoClose",,,,,
+"RaceDialogue$DF_Finish","RaceSpeaker","Congratulations! You finished the track! Your final time is [[$RaceTime]] seconds!",,"DF_Opt;DF_NoOpt","UsedOnce;DisableClose",,,,
+"RaceDialogue$DF_Opt","RaceSpeaker","Wow, you even made a full loop! This is amazing. Well, that's it. Now you can just ride around.",,"DF_AutoClose",,"QuestNodeState Quest2$LeftLoop Completed OR QuestNodeState Quest2$RightLoop Completed",,,
+"RaceDialogue$DF_NoOpt","RaceSpeaker","It looks like you have not made any loop. Better luck next time!",,"DF_AutoClose",,"NOT QuestNodeState Quest2$LeftLoop Completed;NOT QuestNodeState Quest2$RightLoop Completed",,,
+"RaceDialogue$DF_AutoClose",,,,,,,,,"CloseDialogue"
+"AnimDialogue$DF_AnimWelcome","AnimatedBoy","Hello there! Want to see how I talk?",,"DF_Yes;DF_Bye",,,1,"Talk01",
+"AnimDialogue$DF_AnimTalk","AnimatedBoy","(smirk) Ka-boom! (sad face)",,"DF_AutoClose",,,2,"Talk02",
+"AnimDialogue$DF_Yes","Player","Yeah, show me!",,"DF_AnimTalk",,,,,
+"AnimDialogue$DF_Bye","Player","Good bye.",,"DF_AutoClose",,,,,
+"AnimDialogue$DF_AutoClose",,,,,,,,,"CloseDialogue"
+"TestBark$DF_ComeHere","Trainer","Hey, you, over there!",,"DF_ComeHere2","AutoAdvance 2","NOT DialogueFragmentState TestDialogue$DF_Greeting Used",,,
+"TestBark$DF_ComeHere2","Trainer","Let's talk. I know some stuff.",,,"AutoAdvance 3",,,,
+"TestAnimBark$DF_1","AnimatedBoy","Here! I can talk and I'm animated. Check it out.",,,,,3,"Talk01",
+"NPCTalkTest$DF_1","Guy1","Hey, guys. Have you heard last news?",,"DF_2","AutoAdvance 4",,1,"Talk01",
+"NPCTalkTest$DF_2","Guy2","No, what's new?",,"DF_3","AutoAdvance 2.5",,2,"Talk01",
+"NPCTalkTest$DF_3","Guy1","There is a special place somewhere and only Chosen can see it!",,"DF_4","AutoAdvance 4.5",,3,"Talk01",
+"NPCTalkTest$DF_4","Guy3","No way! I don't believe it",,"DF_5","AutoAdvance 4",,4,"Talk01",
+"NPCTalkTest$DF_5","Guy2","I don't believe it too. Fairy tales!",,"DF_6","AutoAdvance 5",,5,"Talk01",
+"NPCTalkTest$DF_6","Guy1","Maybe you're right. I think one day we'll know for sure.",,"DF_7","AutoAdvance 5",,6,"Talk01",
+"NPCTalkTest$DF_7","Guy3","One day we'll know.",,,"AutoAdvance 3",,7,"Talk01",

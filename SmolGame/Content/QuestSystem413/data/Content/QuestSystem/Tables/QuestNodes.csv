@@ -1,0 +1,42 @@
+"Name","Children","NodeText","NodeDescription","Requirements","NodeType","NodeFlags","InstructionsWhenEnabled","InstructionsWhenCompleted"
+"TutorialQuest$Part1",,"Part 1","Go up the stairs.",,"Simple",,,"$Money+=200;$Experience += 500"
+"TutorialQuest$Part2",,"Part 2","Move a little bit forward","Part1","Simple",,,"$Money+=400;$Experience += 1000"
+"TutorialQuest$BranchRoot","Branch1;Branch2","Choose your path ä","This is a branching node. Complete branch 1 OR branch 2 and then you will complete this node","Part1","Branching",,,"$Money+=400;$Experience += 1000"
+"TutorialQuest$Part3",,"Part 3","Talk to the guard at the end of the ramp.",,"Simple","Optional",,"$Money+=600;$Experience += 1500"
+"TutorialQuest$Branch1","Composite11;Composite12","Branch 1","This is a first branch",,"Composite","Repeating 3 0.2",,"$Money+=400;$Experience += 1000"
+"TutorialQuest$Branch2",,"Branch 2","This is a second branch.",,"Simple",,,"$Money+=400;$Experience += 1000"
+"TutorialQuest$Composite11",,"Composite 1.1","This is a first node of composite node",,"Simple",,,"$Money+=400;$Experience += 1000"
+"TutorialQuest$Composite12",,"Composite 1.2","This is a second node of composite node.","Composite11","Simple",,,"$Money+=400;$Experience += 1000"
+"SecondQuest$Intro",,"Walk to the special place","Just go to there",,"Simple",,,
+"SecondQuest$CollectItems",,"Collect cubes","You need all 5 cubes","Intro","Simple","Repeating 5 0.01",,
+"SecondQuest$Ending",,"Bring cubes to collector","and receive your reward","CollectItems","Simple",,,"$Money+=5000;$Experience += 1000"
+"Quest1$GoToShooting",,"Prepare to the battle","Go to the shooting range and prepare to destroy the mighty cubes!",,"Simple",,,"$Experience +=100"
+"Quest1$DestroyCubes","SmallCubes;BigCubes","Destroy all cubes","Don't stay, shoooooot!","GoToShooting","Composite",,,"$Experience +=500"
+"Quest1$SmallCubes",,"Small ones","They should be easy","GoToShooting","Simple","Repeating 5 0.1",,"$Experience +=100"
+"Quest1$BigCubes",,"Big ones","You'll handle this too","SmallCubes","Simple","Repeating 3 0.1",,"$Experience +=200"
+"Quest1$GiantCube",,"Destroy the giant","Think you'll handle it? This thing is enourmous!","DestroyCubes","Simple","Optional",,"$Money+=1000;$Experience += 1000"
+"Quest1$TalkToInstr",,"Talk to instructor",,"DestroyCubes","Simple",,,
+"Quest1$YourWay","LeftPath;RightPath","Choose your way","Sometimes we can't make everything. You have to choose.","TalkToInstr","Branching",,,"$Experience +=500"
+"Quest1$LeftPath","Left_P1;Left_P2;Left_P3","The Left","What is waiting for you in the end?",,"Composite",,,"$Experience +=100"
+"Quest1$Left_P1",,"First check","So you've chosen Left?",,"Simple",,,
+"Quest1$Left_P2",,"Second check","Are you sure?","Left_P1","Simple",,,
+"Quest1$Left_P3",,"Third check","There will be no way back. Think carefully","Left_P2","Simple",,,
+"Quest1$RightPath","Right_P1;Right_P2;Right_P3","The Right","What is waiting for you in the end?",,"Composite",,,
+"Quest1$Right_P1",,"First check","So you've chosen Right?",,"Simple",,,
+"Quest1$Right_P2",,"Second check","You think you're right by choosing Right?","Right_P1","Simple",,,
+"Quest1$Right_P3",,"Third check","There will be no way back. Think carefully","Right_P2","Simple",,,
+"Quest1$ResultOfChoose",,"End of the way","Well, maybe results were the same. Sometimes we can't change the inevitable","YourWay","Simple",,,"$Experience +=2000;OpenLevel VehicleMap"
+"Quest2$StartLine",,"Go to the start position","Prepare to win the race",,"Simple",,,
+"Quest2$LeftRace","LeftRace_P1;LeftRace_P2;LeftRace_P3;LeftRace_P4;","Left race","Win the left race, you have to finish 2 laps","StartLine;Quest1$LeftPath","Composite","Repeating 2 0.1",,"$Experience+=2000"
+"Quest2$LeftRace_P1",,"Waypoint 1",,"StartLine;Quest1$LeftPath","Simple",,,
+"Quest2$LeftRace_P2",,"Waypoint 2",,"LeftRace_P1","Simple",,,
+"Quest2$LeftRace_P3",,"Waypoint 3",,"LeftRace_P2","Simple",,,
+"Quest2$LeftRace_P4",,"Waypoint 4",,"LeftRace_P3","Simple",,,
+"Quest2$LeftLoop",,"Make a full loop","if you want extra reward","StartLine;Quest1$LeftPath","Simple","Optional",,
+"Quest2$RightRace","RightRace_P1;RightRace_P2;RightRace_P3;RightRace_P4;","Right race","Win the right race, you have to finish 2 laps","StartLine;Quest1$RightPath","Composite","Repeating 2 0.1",,
+"Quest2$RightRace_P1",,"Waypoint 1",,"StartLine","Simple",,,
+"Quest2$RightRace_P2",,"Waypoint 2",,"RightRace_P1","Simple",,,
+"Quest2$RightRace_P3",,"Waypoint 3",,"RightRace_P2","Simple",,,
+"Quest2$RightRace_P4",,"Waypoint 4",,"RightRace_P3","Simple",,,
+"Quest2$RightLoop",,"Make a full loop","if you want extra reward","StartLine;Quest1$RightPath","Simple","Optional",,
+"Quest2$TheEnd",,"Finish the quest","You've completed all tasks, take your reward","QuestNodeState Quest2$LeftRace Completed OR QuestNodeState Quest2$RightRace Completed","Simple",,,"StartDialogue RaceDialogue"

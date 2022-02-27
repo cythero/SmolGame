@@ -1,0 +1,5 @@
+"Name","QuestText","QuestDescription","InstructionsWhenCompleted"
+"TutorialQuest","Tutorial Quest","This is a tutorial quest","$Money+=10000;$Experience+=100000"
+"SecondQuest","Second Quest","This is your second quest","$Money+=30000;$Experience+=500000"
+"Quest1","Your first quest","Destroy some boxes and find a way out","$Money+=1000;$Experience+=10000"
+"Quest2","Your second mission","Win a race and make some tricks","$Money+=5000;$Experience+=50000"
